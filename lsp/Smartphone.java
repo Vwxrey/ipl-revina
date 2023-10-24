@@ -5,5 +5,8 @@ public class Smartphone extends Product{
     String getName(){
         return "Samsung S22 Ultra";
     }
+    String getName(){
+        return "Samsung S21 Ultra";
+    }
 
 }
