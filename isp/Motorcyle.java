@@ -13,8 +13,5 @@ public class Motorcyle implements VehicleInterface{
     public void refuel(){
 
     }
-    @Override
-    public void openDoors(){
-
-    }
+    
 }
